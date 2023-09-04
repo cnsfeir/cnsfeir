@@ -15,16 +15,7 @@
 
 ### Some of the things that I've done ✨
 
-
-[![Cumplo Touchbar Notification](https://github-readme-stats.vercel.app/api/pin/?username=cnsfeir&repo=cumplo-touchbar-notification&show_owner=true&theme=vue-dark&show_icons=true&line_height=27)](https://github.com/cnsfeir/cumplo-touchbar-notification)
-
-[![CI-mphony](https://github-readme-stats.vercel.app/api/pin/?username=cnsfeir&repo=CI-mphony&show_owner=true&theme=vue-dark&show_icons=true&line_height=27)](https://github.com/cnsfeir/CI-mphony)
-
-[![Superhero League](https://github-readme-stats.vercel.app/api/pin/?username=cnsfeir&repo=superhero-league&show_owner=true&theme=vue-dark&show_icons=true&line_height=27)](https://github.com/cnsfeir/superhero-league)
+[![The Unofficial Cumplo API](https://github-readme-stats.vercel.app/api/pin/?username=cnsfeir&repo=unofficial-cumplo-api&show_owner=true&theme=vue-dark&show_icons=true&line_height=27)](https://github.com/cnsfeir/unofficial-cumplo-api)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cnsfeir&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://github-readme-stats.vercel.app/api?username=cnsfeir&show_icons=true&theme=vue-dark" alt="cnsfeir" />
-
-<h3>Where to find me</h3>
 -->
